@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Remote Config Test</string>
+
+    <string name="firebase_key_analytics">analytics</string>
+</resources>

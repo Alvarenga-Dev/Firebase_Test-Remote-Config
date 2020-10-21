@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>text_welcome</key>
+        <value>James Arthur é brabo</value>
+    </entry>
+    <entry>
+        <key>btn_welcome</key>
+        <value>2</value>
+    </entry>
+</defaultsMap>
